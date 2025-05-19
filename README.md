@@ -8,7 +8,7 @@
 
 ## 🛠️ Stack & outils
 
-React · TypeScript · Node.js · Express  
+React · TypeScript · Node.js · Next · Express  
 MySQL · MongoDB · Docker · Git · Jest · Vite · Tailwind
 
 ---
