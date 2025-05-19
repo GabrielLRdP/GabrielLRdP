@@ -5,6 +5,18 @@
 ♟️ Créateur de [ChessSquare](https://chess-square.netlify.app) – plateforme d’échecs en ligne
 
 ---
+
+## 🛠️ Stack
+
+React · TypeScript · Next · Node.js · MongoDB · MySQL · Docker · Vite · Jest · Git
+
+---
+
+## 📫 Me contacter
+
+- Mail : [gabriel.le.roy06@gmail.com](mailto:gabriel.le.roy06@gmail.com)  
+- LinkedIn : [linkedin.com/in/gabriel-le-roy-aa872895](https://www.linkedin.com/in/gabriel-le-roy-aa872895)
+
 <!--
 **GabrielLRdP/GabrielLRdP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
