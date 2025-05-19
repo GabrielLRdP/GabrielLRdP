@@ -1,5 +1,10 @@
-## Hi there 👋
+# 👋 Salut, moi c’est Gabriel Le Roy
 
+🎯 Développeur fullstack React / Node  
+🧠 En reconversion réussie – déjà 1 an d’expérience en production chez Acheel  
+♟️ Créateur de [ChessSquare](https://chess-square.netlify.app) – plateforme d’échecs en ligne
+
+---
 <!--
 **GabrielLRdP/GabrielLRdP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
