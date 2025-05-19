@@ -6,9 +6,10 @@
 
 ---
 
-## 🛠️ Stack
+## 🛠️ Stack & outils
 
-React · TypeScript · Next · Node.js · MongoDB · MySQL · Docker · Vite · Jest · Git
+React · TypeScript · Node.js · Express  
+MySQL · MongoDB · Docker · Git · Jest · Vite · Tailwind
 
 ---
 
