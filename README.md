@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est Gabriel Le Roy
+# 👋 Hello, moi c’est Gabriel Le Roy
 
 🎯 Développeur fullstack React / Node  
 🧠 En reconversion réussie – déjà 1 an d’expérience en production chez Acheel  
